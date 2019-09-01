@@ -1,0 +1,972 @@
+[May 05 2016 19:49:22.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------374fa58098a8fefe
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b8793cd012</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:49:24.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------bb638cc7a9522469
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b8793cd012</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:49:29.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------aae2aa65568412f2
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b8793cd012</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:50:53.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------f1cba3d56ee153e2
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b87efb7369</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:50:55.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------36f09cdd232ad775
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b87efb7369</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:51:00.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------7a6b880dbc4b9a99
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b87efb7369</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:51:45.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------c2f814b84c096d73
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b88236ba26</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:51:47.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------4545be2bee82af2b
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b88236ba26</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:51:52.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------a9f5557d39e0fb30
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b88236ba26</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:53:05.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------19a7539f83214e64
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b8873dafab</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:53:07.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------851e3855b7c98120
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b8873dafab</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:53:13.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------a8ab5061687691dc
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b8873dafab</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:54:26.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------1e82ac08b854cf54
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b88c50292a</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:54:28.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------6b4c68bb94df4c6b
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b88c50292a</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:54:33.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------ffff2c306f335f20
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b88c50292a</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:56:38.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------6c2b18ce7ac5d32d
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b8946256c3</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:56:40.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------0c4f48f50787def1
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b8946256c3</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:57:09.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------d253809068b2a73b
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b8946256c3</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:58:28.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------30111e87dd84d3d3
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b89b568fed</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:58:30.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------330040ed5c64d7d7
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b89b568fed</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:58:34.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------9e789827416b79d6
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b89b568fed</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:59:26.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------9ebf16390bdd7d4a
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b89f043c70</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:59:28.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------3ba46d29c5bb76a9
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b89f043c70</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 19:59:33.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 881
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------248e3bd81f4f1f9e
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields></selector><reportName>Campaign performance report #572b89f043c70</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:03:03.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 909
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------0f1b04adb6ac7c69
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8ac224c74</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:03:05.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 909
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------1be85d51e0a77988
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8ac224c74</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:03:09.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 909
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------d82efcce10681dde
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8ac224c74</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:04:05.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 909
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------cc6d62fd4c56d5a4
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8b093c0c0</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:04:07.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 909
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------a414fd5cb09ecc4e
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8b093c0c0</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:04:11.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 909
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------cb157a9a206894bb
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8b093c0c0</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:06:43.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 909
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------b8f4b0a7d00578bd
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8ba8d7aa9</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:06:45.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 909
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------e0390658270e8c4a
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8ba8d7aa9</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:06:50.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 909
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------0407a83e8845907c
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>AccountCurrencyCode</fields><fields>AccountTimeZoneId</fields><fields>AdvertisingChannelType</fields><fields>AdvertisingChannelSubType</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8ba8d7aa9</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:10:52.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------2a41f3bdad339086
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8ca15c062</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:10:54.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------c7edd8d905317d81
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8ca15c062</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:10:59.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------211ebdb69f9e4b88
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8ca15c062</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:13:47.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------04ed3efa8f785ce6
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8d515afb1</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:13:50.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------216891ebd72035a8
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8d515afb1</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:13:54.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------0434abd5eade3b30
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8d515afb1</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:14:55.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------15c04b41bdd71291
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8d9541bef</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:14:57.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------5a6ada0fd6793d6c
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8d9541bef</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:15:01.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------97cac4bfb88a7734
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8d9541bef</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:15:42.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------da0a5e3bfc625d69
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8dc3bc50a</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:15:44.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------a059952b8a438480
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8dc3bc50a</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:15:49.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------e62d4162ded45f7d
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8dc3bc50a</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:16:28.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------1041eae549c99b66
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8df1b8e0a</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:16:30.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------885b4b015e4816a6
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8df1b8e0a</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:16:35.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------8cab5e3e1db80219
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8df1b8e0a</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:16:38.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------9310e8ecc4bd9caf
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8dfb5c657</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:16:40.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------cb2995462ab46ef8
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8dfb5c657</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:16:44.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------8614e29076d13cf8
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8dfb5c657</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:16:55.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------46d4309bf42fec6a
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8e0bf07a9</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:16:57.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 1197938577
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------b47d6bd4562c06e4
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8e0bf07a9</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
+[May 05 2016 20:17:01.000000 - INFO] POST /api/adwords/reportdownload/v201603 HTTP/1.1
+Host: adwords.google.com
+User-Agent: curl, gzip
+Accept: */*
+Accept-Encoding: gzip
+Authorization: Bearer ya29.CjHZAk2GIgaMjIzD2h85UKqbrmDCaZXClb42Ev32V0DS4HTT7QwPd4WLaYCMW-C4k0T3
+developerToken: xG93Ix8YFmERu082NkaFMA
+clientCustomerId: 4730216938
+Content-Length: 758
+Expect: 100-continue
+Content-Type: multipart/form-data; boundary=------------------------480a90cce4ff4431
+
+Parameters:
+__rdxml: <?xml version="1.0" encoding="UTF-8"?>
+<reportDefinition><selector><fields>CampaignId</fields><fields>CampaignName</fields><fields>AccountDescriptiveName</fields><fields>BudgetId</fields><fields>CampaignStatus</fields><fields>ServingStatus</fields><fields>Impressions</fields><fields>Clicks</fields><fields>Ctr</fields><fields>AverageCpc</fields><fields>Cost</fields><fields>Conversions</fields></selector><reportName>Campaign performance report #572b8e0bf07a9</reportName><reportType>CAMPAIGN_PERFORMANCE_REPORT</reportType><dateRangeType>TODAY</dateRangeType><downloadFormat>CSV</downloadFormat></reportDefinition>
+
+Response Code: 200
+
